@@ -23,7 +23,7 @@
  7) Learning ability: Desire to constantly develop and learn new technologies.
 
  ## Links to my works:
-
+ - [Bug-Reports](https://skyrimm2000-1731152894731.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiMmY2ZGZkODNmY2M1NGIxNzhhY2I5NWI4MGUyZjJkNjgiLCJwIjoiaiJ9)
 
 ## I am very interested in the opportunity to work in your company and I am confident that I can be a valuable member of your team.)
 
