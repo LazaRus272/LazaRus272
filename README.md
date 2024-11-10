@@ -12,10 +12,11 @@
  
  ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=blue).
  ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=Orange).
-  ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=blue)
-  ![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=Bash&logoColor=blue)
-  ![Azure](https://img.shields.io/badge/-Azure-090909?style=for-the-badge&logo=Azure&logoColor=blue)
-  ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=DevTools&logoColor=blue)
+ ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=blue)
+ ![Bash](https://img.shields.io/badge/-Bash-090909?style=for-the-badge&logo=Bash&logoColor=blue)
+ ![Azure](https://img.shields.io/badge/-Azure-090909?style=for-the-badge&logo=Azure&logoColor=blue)
+ ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=DevTools&logoColor=blue) 
+ 
  4) Communication: Ability to formulate thoughts clearly and concisely. I have experience working with people as a barista, as well as managing my team as a senior barista;
  5) Analytical Thinking: Ability to analyze information, identify problems and develop solutions;
  6)  Autonomy: The ability to independently complete tasks and take responsibility for results;
