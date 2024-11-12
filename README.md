@@ -24,7 +24,8 @@
 
  ## Links to my works:
  - [Bug-Reports](https://skyrimm2000-1731152894731.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiMmY2ZGZkODNmY2M1NGIxNzhhY2I5NWI4MGUyZjJkNjgiLCJwIjoiaiJ9)
-
+ - [Test-Cases](https://app.qase.io/project/SFR?case=30&previewMode=side&suite=4&tab=)
+ 
 ## I am very interested in the opportunity to work in your company and I am confident that I can be a valuable member of your team.)
 
 My contact number: +79672739581
