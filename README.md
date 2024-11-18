@@ -32,4 +32,5 @@
 ## Я очень заинтересован в возможности работать в вашей компании и уверен, что смогу стать ценным членом вашей команды.)
 
 Контактный номер: +79672739581
-[![Telegram](https://github.com/LazaRus272/LazaRus272/blob/main/assets/Telegram.png)](https://t.me/VShredinger)
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/VShredinger)
