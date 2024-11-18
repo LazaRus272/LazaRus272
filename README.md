@@ -27,6 +27,7 @@
  ## Ссылки на работы:
  - [Bug-Reports](https://skyrimm2000-1731152894731.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiMmY2ZGZkODNmY2M1NGIxNzhhY2I5NWI4MGUyZjJkNjgiLCJwIjoiaiJ9)
  - [Test-Cases](https://app.qase.io/project/SFR?case=30&previewMode=side&suite=4&tab=)
+ - [Postman-collections](https://warped-crescent-280749.postman.co/workspace/My-Workspace~50b5361c-3576-46bd-88dd-3867629c45da/collection/38197686-0e7336e1-7b87-4730-bc8a-5dfa1733a21c?action=share&creator=38197686)
  
 ## Я очень заинтересован в возможности работать в вашей компании и уверен, что смогу стать ценным членом вашей команды.)
 
